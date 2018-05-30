@@ -1,0 +1,2 @@
+1001,ÊÙ¿µ¾®Ë®,ShouKangjingshui,Food,50,0,50,60
+1002,ÇåÃ÷±ý,Qingmingbing,Food,100,0,70,100
